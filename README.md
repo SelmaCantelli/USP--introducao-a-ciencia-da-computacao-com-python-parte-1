@@ -7,4 +7,6 @@ Olá! Meu nome é Selma Cantelli e este é um repositório contendo projetos e e
 O curso de Introdução à Ciência da Computação destinado aos interessados em aprender não só a programar em Python mas também os conceitos básicos da Ciência da Computação!
 O objetivo principal é desenvolver o raciocínio aplicado à formulação e resolução de problemas computacionais. O ato de programar é uma ferramenta útil para trabalhar esse raciocínio, bem como tornar mais concretos outros conceitos comuns em Ciência da Computação
 
-https://www.coursera.org/account/accomplishments/certificate/FHSN5Q8RL38J
+
+![image](https://user-images.githubusercontent.com/77678430/114643894-e843d680-9cac-11eb-87bf-7560b1226041.png)
+
