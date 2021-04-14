@@ -1,0 +1,46 @@
+Exercício 1 - Par ou Ímpar
+
+Python 3.9.2 (tags/v3.9.2:1a79785, Feb 19 2021, 13:44:55) [MSC v.1928 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> numero = float(input('8'))
+resto = numero % 2
+if resto == 0:
+print ('Número é par')
+else:
+    print('Número é ímpar')
+    
+    
+    Exercício 2 
+    
+    In [1]: x = 5
+        total = 1
+        for n in range(x):
+        total = total * (n + 1)
+
+
+        print(total)
+
+120
+
+
+
+Exercício 3 
+
+n = int(input("Digite um número inteiro: "))
+
+cont = 2
+ehNroPrimo = True
+
+while (cont < n and ehNroPrimo):
+
+    ehNroPrimo = not ((n % cont) == 0)
+    cont += 1
+
+
+if (ehNroPrimo):
+    print("primo")
+else:
+    print("não primo") 
+
+Digite um número inteiro: 13
+primo
